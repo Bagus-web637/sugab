@@ -1,0 +1,12 @@
+# Project Nexus IoT - Pos Pantau KP Monitoring Dashboard
+# -------------------------------------------------------------
+# Zero External Dependencies!
+# Proyek ini menggunakan modul bawaan standar Python (Standard Library):
+# - http.server (Web Server lokal)
+# - sqlite3     (Database lokal per hari)
+# - urllib      (HTTP requests & reverse proxy)
+# - threading   (Background data logger)
+# - json, time, datetime, os, sys
+#
+# Tidak memerlukan instalasi pip ('pip install' tidak diperlukan).
+# Kompatibel dengan Python 3.8, 3.9, 3.10, 3.11, 3.12, 3.13, 3.14+.

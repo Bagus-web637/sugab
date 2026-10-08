@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Database (Data historis lokal)
+*.db
+*.sqlite
+*.sqlite3
+
+# Windows & OS Temporary Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
